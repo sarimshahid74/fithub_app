@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814423105211",
+    "project_id": "fithub5653",
+    "storage_bucket": "fithub5653.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814423105211:android:ac16892069c259326f539e",
+        "android_client_info": {
+          "package_name": "com.example.fithub_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814423105211-hebgsig3fk6b6a3a6pdjuknup070v9s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fithub_app",
+            "certificate_hash": "621e136c585671691b16152008ebcb056165dba6"
+          }
+        },
+        {
+          "client_id": "814423105211-9rbfbupleeoeterjfblp4p76h9djtbpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQngcDucXOr1kXVJtQMwv4LNckqmWBXj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814423105211-9rbfbupleeoeterjfblp4p76h9djtbpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
